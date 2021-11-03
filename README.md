@@ -8,8 +8,7 @@ I'm a computational material scientist and software developer.
   * Master Student at the Interdisciplinary Center for Advanced Materials Simulations (ICAMS), Bochum, Germany. 
   * Researcher at Max-Planck Institut für Eisenforchung, Düsseldorf, Germany. 
 
-I work on the design of materials based on the quantum and atomistic simulations. I mainly develop software for automating atomistic simulation protocols and use various methods to analyse these simulations.
-
+I work on the design of materials based on the quantum and atomistic simulations.
 
 
 
