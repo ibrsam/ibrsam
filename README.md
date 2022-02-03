@@ -3,10 +3,10 @@ I'm Eslam Ibrahim.
 
 ## About me
 
-I'm a computational material scientist and software developer. 
+I'm a computational material scientist and software developer.
 
-  * Master Student at the Interdisciplinary Center for Advanced Materials Simulations (ICAMS), Bochum, Germany. 
-  * Researcher at Max-Planck Institut für Eisenforchung, Düsseldorf, Germany. 
+  * Former researcher at Max-Planck Institut für Eisenforchung, Düsseldorf, Germany. 
+  * Doctoral Candidate at the Interdisciplinary Center for Advanced Materials Simulations (ICAMS), Bochum, Germany. 
 
 I work on the design of materials based on the quantum and atomistic simulations.
 
