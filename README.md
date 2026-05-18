@@ -9,7 +9,8 @@ I design materials from the ground up using quantum and atomistic simulations �
 ## 🧑‍🔬 About Me
 
 - 🎓 **Doctoral Candidate** at ICAMS, Ruhr-Universität Bochum, Germany  
-- 🔬 **Former Researcher** at Max-Planck-Institut für Eisenforschung, Düsseldorf, Germany  
+- 🔬 **Former Researcher** at Max-Planck-Institut für Eisenforschung, Düsseldorf, Germany
+- 🌍 **Visiting Researcher** at CIC nanoGUNE, San Sebastián, Spain  
 - ⚛️ Specialized in **Atomic Cluster Expansion (ACE)** and **quantum-accurate machine learning potentials** for water and complex systems  
 - 💻 Passionate about writing clean, reproducible, and scalable scientific code
 
