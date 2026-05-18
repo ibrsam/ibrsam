@@ -26,17 +26,20 @@ I design materials from the ground up using quantum and atomistic simulations �
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity
 
-![Eslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrsam&show_icons=true&theme=dark&hide_border=true)
+| Streak | Activity Graph |
+| :---: | :---: |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=ibrsam&theme=dark&hide_border=true)](https://git.io/streak-stats) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibrsam&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_title=true) |
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrsam&theme=dark&hide_border=true&layout=compact)
 
 ---
 
 ## 📫 Let's Connect
 
-- 📧 [Eslam.SaadIbrahim@ruhr-uni-bochum.de](mailto:Eslam.SaadIbrahim@ruhr-uni-bochum.de)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ibrsam/) *(update with your actual link)*
-- 🧪 [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID) *(optional)*
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/ibrsam/](https://www.linkedin.com/in/eslam-ibrahim-128a08160/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcHD5IdgLS4itNIKzKGrxhw%3D%3D))
+- 🧪 [Google Scholar]([https://scholar.google.com/citations?user=YOUR_ID](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=cxEUTc4AAAAJ))
 
 ---
 
