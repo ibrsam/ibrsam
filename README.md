@@ -36,7 +36,7 @@ I design materials from the ground up using quantum and atomistic simulations �
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ibrsam/](https://www.linkedin.com/in/eslam-ibrahim-128a08160/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcHD5IdgLS4itNIKzKGrxhw%3D%3D))
+- 🔗 [LinkedIn](linkedin.com/in/eslam-ibrahim-128a08160)
 - 🧪 [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=cxEUTc4AAAAJ)
 
 ---
